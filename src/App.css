@@ -19,12 +19,5 @@ img {
 }
 
 .card-img-top {
-  height: 15vw;
-}
-
-#header-carousel-item {
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  height: 50vh
+  height: 20em;
 }

@@ -1,0 +1,19 @@
+/* Make Carousel transitions smooth */
+/* even if we apply opacity to its */
+/* images */
+li {
+    transition: opacity 1s ease !important;
+}
+
+.header-carousel-item-image {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.3;
+    height: 50vh
+}
+
+.carousel-item {
+    background: black;
+    transition: opacity 1s ease-in-out !important;
+}
