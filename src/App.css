@@ -1,3 +1,7 @@
+img {
+  object-fit: cover;
+}
+
 .App {
   text-align: center;
   font-family: "Montserrat"
