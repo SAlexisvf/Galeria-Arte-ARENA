@@ -21,7 +21,7 @@ const Gallery = () => {
             <Row>
               {doneImages.map((img, index) => (
                   <Col md={4} key={index}>
-                    <Card md={4}>
+                    <Card md={4} className="m-3">
                       <Card.Img
                         src={img}
                         variant="top"
