@@ -26,21 +26,21 @@ const Gallery = () => {
         <Row>
           {doneImages.map((img, index) => (
             <Col md={4} key={index}>
-              <a
+              <Card
                 style={{ cursor: "pointer" }}
                 onClick={() => {
                   setCurrImg(img);
                   setShow(true);
                 }}
+                md={4}
+                className="m-3"
               >
-                <Card md={4} className="m-3">
-                  <Card.Img src={img} variant="top" fluid />
-                  <Card.Body>
-                    <Card.Title>{drawingNames(img)}</Card.Title>
-                    <Card.Text>Some Text</Card.Text>
-                  </Card.Body>
-                </Card>
-              </a>
+                <Card.Img src={img} variant="top" fluid />
+                <Card.Body>
+                  <Card.Title>{drawingNames(img)}</Card.Title>
+                  <Card.Text>Some Text</Card.Text>
+                </Card.Body>
+              </Card>
             </Col>
           ))}
         </Row>
