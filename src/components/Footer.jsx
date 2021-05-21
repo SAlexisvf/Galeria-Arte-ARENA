@@ -2,7 +2,7 @@ import React from 'react';
 import '../Footer.css'
 import {FaTwitter} from "react-icons/fa"; 
 import {FaFacebook} from "react-icons/fa"; 
-
+import {FaLink} from "react-icons/fa"
 
 const Footer = () => <footer className="page-footer font-small blue pt-4">
     <div className="container-fluid text-center text-md-left">
@@ -16,6 +16,9 @@ const Footer = () => <footer className="page-footer font-small blue pt-4">
 
                 <a class="btn btn-outline-light btn-floating m-1" href="https://twitter.com/autismoarena" role="button"
                 ><i class="fab FaTwitter"></i> <FaTwitter icon= {FaTwitter}/> </a>
+
+                <a class="btn btn-outline-light btn-floating m-1" href="https://www.autismoarena.org.mx" role="button"
+                ><i class="fab FaTwitter"></i> <FaLink icon= {FaLink}/> </a>
 
             </div>
 
