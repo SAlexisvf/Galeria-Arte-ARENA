@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Galeria-Arte-ARENA/static/css/main.80c5eecc.chunk.css",
+    "main.js": "/Galeria-Arte-ARENA/static/js/main.98d32cb7.chunk.js",
+    "main.js.map": "/Galeria-Arte-ARENA/static/js/main.98d32cb7.chunk.js.map",
+    "runtime-main.js": "/Galeria-Arte-ARENA/static/js/runtime-main.b181a262.js",
+    "runtime-main.js.map": "/Galeria-Arte-ARENA/static/js/runtime-main.b181a262.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/Galeria-Arte-ARENA/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5ba57983.chunk.js": "/Galeria-Arte-ARENA/static/js/2.5ba57983.chunk.js",
+    "static/js/2.5ba57983.chunk.js.map": "/Galeria-Arte-ARENA/static/js/2.5ba57983.chunk.js.map",
+    "index.html": "/Galeria-Arte-ARENA/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/Galeria-Arte-ARENA/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.80c5eecc.chunk.css.map": "/Galeria-Arte-ARENA/static/css/main.80c5eecc.chunk.css.map",
+    "static/js/2.5ba57983.chunk.js.LICENSE.txt": "/Galeria-Arte-ARENA/static/js/2.5ba57983.chunk.js.LICENSE.txt",
+    "static/media/El-Asombroso-Spider-Man.jpg": "/Galeria-Arte-ARENA/static/media/El-Asombroso-Spider-Man.0bf5c367.jpg",
+    "static/media/El-Tren-y-Niveles-Altos.jpg": "/Galeria-Arte-ARENA/static/media/El-Tren-y-Niveles-Altos.b4f177d1.jpg",
+    "static/media/Lado-Bueno-Lado-Malo.jpg": "/Galeria-Arte-ARENA/static/media/Lado-Bueno-Lado-Malo.1022d92e.jpg",
+    "static/media/Los-Trollz.jpg": "/Galeria-Arte-ARENA/static/media/Los-Trollz.0437ba77.jpg",
+    "static/media/index.css": "/Galeria-Arte-ARENA/static/media/Montserrat-Regular.3cd78665.ttf",
+    "static/media/Sonic.jpg": "/Galeria-Arte-ARENA/static/media/Sonic.c875f558.jpg",
+    "static/media/Un-Día-Lluvioso.jpg": "/Galeria-Arte-ARENA/static/media/Un-Día-Lluvioso.4bcf885a.jpg",
+    "static/media/arena.c5fa4d36.png": "/Galeria-Arte-ARENA/static/media/arena.c5fa4d36.png",
+    "static/media/el-asombroso-spider-man-wip-3.jpg": "/Galeria-Arte-ARENA/static/media/el-asombroso-spider-man-wip-3.089d31a4.jpg",
+    "static/media/el-tren-y-niveles-altos-wip.jpg": "/Galeria-Arte-ARENA/static/media/el-tren-y-niveles-altos-wip.a62c0c78.jpg",
+    "static/media/lado-bueno-lado-malo-wip-3.jpg": "/Galeria-Arte-ARENA/static/media/lado-bueno-lado-malo-wip-3.e680fbb2.jpg",
+    "static/media/los-trollz-wip-2.jpg": "/Galeria-Arte-ARENA/static/media/los-trollz-wip-2.0647f111.jpg",
+    "static/media/sonic-wip-2.jpg": "/Galeria-Arte-ARENA/static/media/sonic-wip-2.470edbf5.jpg",
+    "static/media/un-dia-lluvioso-wip.jpg": "/Galeria-Arte-ARENA/static/media/un-dia-lluvioso-wip.e685e066.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b181a262.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.5ba57983.chunk.js",
+    "static/css/main.80c5eecc.chunk.css",
+    "static/js/main.98d32cb7.chunk.js"
+  ]
+}
