@@ -1,7 +1,7 @@
 import Carousel from 'react-bootstrap/Carousel'
 import Image from 'react-bootstrap/Image'
 import { wipImages } from '../utils/importAll'
-import arenaLogo from '../images/arena.png'
+import arenaLogo from '../imagenes/arena.png'
 import '../Header.css'
 
 const Header = () => {
