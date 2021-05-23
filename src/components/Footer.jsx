@@ -27,20 +27,22 @@ const Footer = () => <footer className="page-footer font-small blue pt-4">
             <div className="col-md-3 mb-md-0 mb-3">
                 <h5 className="text-uppercase">Estudiante:</h5>
                 <ul className="list-unstyled">
-                    <li><a>Estudiante 1</a></li>
-                    <li><a>Estudiante 2</a></li>
-                    <li><a>Estudiante 3</a></li>
-                    <li><a>Estudiante 4</a></li>
+                    <li><a>Alexis Virgen</a></li>
+                    <li><a>Andrés Ricardo Garza Vela</a></li>
+                    <li><a>Luis Gerardo Bravo</a></li>
+                    <li><a>Hector de Luna</a></li>
+                    <li><a>Antonio Hernández</a></li>
                 </ul>
             </div>
 
             <div className="col-md-3 mb-md-0 mb-3">
                 <h5 className="text-uppercase">Matricula:</h5>
                 <ul className="list-unstyled">
-                    <li><a>A00123456</a></li>
-                    <li><a>A00123456</a></li>
-                    <li><a>A00123456</a></li>
-                    <li><a>A00123456</a></li>
+                    <li><a>A00820175</a></li>
+                    <li><a>A00820361</a></li>
+                    <li><a>A01282014</a></li>
+                    <li><a>A01282272</a></li>
+                    <li><a>A01382469</a></li>
                 </ul>
             </div>
         </div>
