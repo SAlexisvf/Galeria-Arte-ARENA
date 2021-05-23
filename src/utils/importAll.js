@@ -24,9 +24,9 @@ function importAll(r) {
 const importToArr = (i) => Object.entries(i).map((img) => img[1].default);
 
 // Image Import Objects
-let wips = importAll(require.context("../images/wip", false, /\.jpg/));
-let dones = importAll(require.context("../images/done", false, /\.jpg/));
-// let students = importAll(require.context('../images/alumnos', false, /\.jpg/))
+let wips = importAll(require.context("../imagenes/progreso", false, /\.jpg/));
+let dones = importAll(require.context("../imagenes/terminadas", false, /\.jpg/));
+// let students = importAll(require.context('../imagenes/alumnos', false, /\.jpg/))
 
 // Image arrays
 const wipImages = importToArr(wips);

@@ -2,8 +2,8 @@ export const descriptor = {
     "obras": [
         {
             "titulo": "El Asombroso Spiderman",
-            "autor": "Juanito",
-            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "autor": "Mateo",
+            "descripcion": "Aquí iría la descripción del dibujo proporcionada por cada niño, puede ser muy simple como que significa para el, que lo inspiró, etc.",
             "ArchivoDeObraTerminada": "terminadas/El-Asombroso-Spider-Man.jpg",
             "ArchivosDeObraEnProgreso": [
                 "progreso/el-asombroso-spider-man-wip-3.jpg",
@@ -12,8 +12,8 @@ export const descriptor = {
         },
         {
             "titulo": "El Tren y Niveles Altos",
-            "autor": "Pedro",
-            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "autor": "Erick",
+            "descripcion": "Aquí iría la descripción del dibujo proporcionada por cada niño, puede ser muy simple como que significa para el, que lo inspiró, etc.",
             "ArchivoDeObraTerminada": "terminadas/El-Tren-y-Niveles-Altos.jpg",
             "ArchivosDeObraEnProgreso": [
                 "progreso/el-tren-y-niveles-altos-wip.jpg",
@@ -22,8 +22,8 @@ export const descriptor = {
         },
         {
             "titulo": "Lado Bueno Lado Malo",
-            "autor": "Jose",
-            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "autor": "Victor",
+            "descripcion": "Aquí iría la descripción del dibujo proporcionada por cada niño, puede ser muy simple como que significa para el, que lo inspiró, etc.",
             "ArchivoDeObraTerminada": "terminadas/Lado-Bueno-Lado-Malo.jpg",
             "ArchivosDeObraEnProgreso": [
                 "progreso/lado-bueno-lado-malo-wip-3.jpg",
@@ -32,8 +32,8 @@ export const descriptor = {
         },
         {
             "titulo": "Los Trollz",
-            "autor": "Juanito",
-            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "autor": "Dylan",
+            "descripcion": "Aquí iría la descripción del dibujo proporcionada por cada niño, puede ser muy simple como que significa para el, que lo inspiró, etc.",
             "ArchivoDeObraTerminada": "terminadas/Los-Trollz.jpg",
             "ArchivosDeObraEnProgreso": [
                 "progreso/los-trollz-wip-2.jpg"
@@ -41,8 +41,8 @@ export const descriptor = {
         },
         {
             "titulo": "Sonic",
-            "autor": "Pedro",
-            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "autor": "Luis",
+            "descripcion": "Aquí iría la descripción del dibujo proporcionada por cada niño, puede ser muy simple como que significa para el, que lo inspiró, etc.",
             "ArchivoDeObraTerminada": "terminadas/Sonic.jpg",
             "ArchivosDeObraEnProgreso": [
                 "progreso/sonic-wip-2.jpg"
@@ -50,8 +50,8 @@ export const descriptor = {
         },
         {
             "titulo": "Un Dia Lluvioso",
-            "autor": "Jose",
-            "descripcion": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+            "autor": "Esteban",
+            "descripcion": "Aquí iría la descripción del dibujo proporcionada por cada niño, puede ser muy simple como que significa para el, que lo inspiró, etc.",
             "ArchivoDeObraTerminada": "terminadas/Un-Día-Lluvioso.jpg",
             "ArchivosDeObraEnProgreso": [
                 "progreso/un-dia-lluvioso-wip.jpg"

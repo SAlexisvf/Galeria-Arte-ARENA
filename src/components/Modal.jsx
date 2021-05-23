@@ -8,7 +8,7 @@ const ModalImage = (props) => {
   if (img != null) {
     const ModalCarousel = img["ArchivosDeObraEnProgreso"].map((index) => 
       <Carousel.Item>
-        <Image src={require("../imagenes/" + index).default} fluid />
+        <Image width={"auto"} height={500} src={require("../imagenes/" + index).default} />
       </Carousel.Item>
     );
     return (
@@ -26,7 +26,7 @@ const ModalImage = (props) => {
         <Modal.Body>
           <Carousel wrap>
             <Carousel.Item>
-              <Image src={require("../imagenes/" + img["ArchivoDeObraTerminada"]).default} fluid />
+              <Image width={"auto"} height={500} src={require("../imagenes/" + img["ArchivoDeObraTerminada"]).default} />
             </Carousel.Item>
             {ModalCarousel}
           </Carousel>
