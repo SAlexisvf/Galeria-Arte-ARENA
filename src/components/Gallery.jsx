@@ -18,6 +18,7 @@ const Gallery = () => {
           {descriptor["obras"].map((index) => (
             <Col md={4} key={index}>
               <Card
+                bg="light"
                 style={{ cursor: "pointer" }}
                 onClick={() => {
                   setShow(true);

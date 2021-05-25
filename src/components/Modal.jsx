@@ -8,7 +8,9 @@ const ModalImage = (props) => {
   if (img != null) {
     const ModalCarousel = img["ArchivosDeObraEnProgreso"].map((index) => 
       <Carousel.Item>
-        <Image width={"auto"} height={500} src={require("../imagenes/" + index).default} />
+        <div className="d-flex justify-content-center" width={100}>
+          <Image width={"auto"} height={500} src={require(`../imagenes/${index}`).default} />
+        </div>
       </Carousel.Item>
     );
     return (
@@ -24,15 +26,14 @@ const ModalImage = (props) => {
           </Modal.Title>
         </Modal.Header>
         <Modal.Body>
-          <Carousel wrap>
-            <Carousel.Item>
+          <Carousel wrap interval={null}>
+            <Carousel.Item className="d-flex justify-content-center">
               <Image width={"auto"} height={500} src={require("../imagenes/" + img["ArchivoDeObraTerminada"]).default} />
             </Carousel.Item>
             {ModalCarousel}
           </Carousel>
-          <h4>Descripcion: {"\n"}</h4>
-          <h5>{img["descripcion"]}</h5>
-          <h5>Autor: {img["autor"]}</h5>
+          <h4><b>Autor:</b> <span>{img["autor"]}</span></h4>
+          <p>Utiliza las flechas para explorar el progreso de la obra</p>
         </Modal.Body>
         <Modal.Footer>
           <Button onClick={props.onHide}>Cerrar</Button>
